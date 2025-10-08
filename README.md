@@ -103,6 +103,7 @@ The models were evaluated using three main metrics:
   * Color-coded cards and animated buttons
   * Sidebar with statistics and model descriptions
 
+---
 
 ## 🚀 Future Improvements
 
@@ -111,6 +112,8 @@ The models were evaluated using three main metrics:
 3. **Scalability:** Deploy on cloud with REST API endpoints.
 4. **Advanced Modeling:** Explore deep learning and graph-based recommenders (e.g., GNNs).
 5. **User Feedback Loop:** Implement A/B testing and real-time feedback integration.
+
+---
 
 ## Installation & Usage
 
@@ -151,6 +154,7 @@ Launch web application:
 ```bash
 streamlit run appstreamlit.py
 ```
+---
 
 ## Interface Demonstration video
 [![System Demo](https://img.shields.io/badge/Watch_Demo-FF6B6B?style=for-the-badge&logo=video&logoColor=white)](demo.mp4)
